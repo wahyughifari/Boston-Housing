@@ -1,5 +1,7 @@
 # Boston House Price Prediction App
 
+This project focuses on building an interactive web application to predict median house prices in the Boston area using a Ridge Regression model. The app was developed using Streamlit and integrates both Exploratory Data Analysis (EDA) and real-time machine learning predictions.
+
 ## Problem Statement
 
 Housing price prediction is a critical task for real estate buyers, sellers, and investors to make informed decisions. Accurate estimation of house prices based on key property features can help stakeholders evaluate market value, set realistic prices, and identify investment opportunities. However, housing markets are complex and influenced by various factors, making price prediction challenging.
