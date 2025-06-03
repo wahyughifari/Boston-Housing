@@ -24,4 +24,5 @@ This project aims to develop an interactive web application that:
 
 The application uses the well-known **Boston Housing dataset**, which contains information about various features of houses in Boston suburbs and their median values.
 
+## [Deployment] (https://boston-housing-wahyu.streamlit.app/)
 
